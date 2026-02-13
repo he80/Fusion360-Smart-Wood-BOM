@@ -6,7 +6,6 @@ A powerful Add-in for Autodesk Fusion 360 that generates intelligent Cut Lists, 
 
 
 
-!\[Addin Screenshot]("https://github.com/user-attachments/assets/4adb741e-176f-4081-8877-12b9177a74c4") \*(Add your screenshot here later)\*
 
 <img width="1068" height="501" alt="bom" src="https://github.com/user-attachments/assets/4adb741e-176f-4081-8877-12b9177a74c4" />
 
@@ -100,6 +99,7 @@ You can edit the top of the `SmartWoodBOM.py` file to change:
 
 
 This project is licensed under the MIT License - free to use and modify!
+
 
 
 
