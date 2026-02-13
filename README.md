@@ -1,3 +1,9 @@
+![GitHub all releases](https://img.shields.io/github/downloads/he80/Fusion360-Smart-Wood-BOM/total?style=for-the-badge&label=Downloads&color=success)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/he80/Fusion360-Smart-Wood-BOM?style=for-the-badge&color=blue)
+
+![GitHub views](https://komarev.com/ghpvc/?username=he80-Fusion360-Smart-Wood-BOM&label=Views&color=orange&style=for-the-badge)
+
 \# Fusion 360 Smart Wood BOM \& Cost Estimator
 
 
@@ -99,6 +105,7 @@ You can edit the top of the `SmartWoodBOM.py` file to change:
 
 
 This project is licensed under the MIT License - free to use and modify!
+
 
 
 
