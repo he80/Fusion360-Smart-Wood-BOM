@@ -6,8 +6,9 @@ A powerful Add-in for Autodesk Fusion 360 that generates intelligent Cut Lists, 
 
 
 
-!\[Addin Screenshot](screenshot.png) \*(Add your screenshot here later)\*
+!\[Addin Screenshot]("https://github.com/user-attachments/assets/4adb741e-176f-4081-8877-12b9177a74c4") \*(Add your screenshot here later)\*
 
+<img width="1068" height="501" alt="bom" src="https://github.com/user-attachments/assets/4adb741e-176f-4081-8877-12b9177a74c4" />
 
 
 \## 🚀 Features
@@ -70,7 +71,6 @@ A powerful Add-in for Autodesk Fusion 360 that generates intelligent Cut Lists, 
 
 3\.  Click the new \*\*"Export Wood BOM"\*\* button.
 
-!\[Export Wood BOM]([https://github.com/user-attachments/assets/baeaab7e-5923-4209-8de1-841622eb5262])
 <img width="651" height="221" alt="1" src="https://github.com/user-attachments/assets/baeaab7e-5923-4209-8de1-841622eb5262" />
 
 4\.  A CSV file (Excel) will be saved to your Desktop containing:
@@ -100,6 +100,7 @@ You can edit the top of the `SmartWoodBOM.py` file to change:
 
 
 This project is licensed under the MIT License - free to use and modify!
+
 
 
 
