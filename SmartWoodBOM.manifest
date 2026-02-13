@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"my_smart_wood_bom_v1",
+	"author":	"Your Name",
+	"description":	{
+		"":	"Calculates Wood Cut List and Cost"
+	},
+	"version":	"1.0",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
