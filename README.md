@@ -70,6 +70,8 @@ A powerful Add-in for Autodesk Fusion 360 that generates intelligent Cut Lists, 
 
 3\.  Click the new \*\*"Export Wood BOM"\*\* button.
 
+!\[Export Wood BOM](screenshot.png)
+
 4\.  A CSV file (Excel) will be saved to your Desktop containing:
 
 &nbsp;   \* \*\*Cut List:\*\* Exact dimensions for the saw.
@@ -97,4 +99,5 @@ You can edit the top of the `SmartWoodBOM.py` file to change:
 
 
 This project is licensed under the MIT License - free to use and modify!
+
 
