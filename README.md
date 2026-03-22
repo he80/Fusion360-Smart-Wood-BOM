@@ -92,11 +92,11 @@ A powerful Add-in for Autodesk Fusion 360 that generates intelligent Cut Lists, 
 
 You can edit the top of the `SmartWoodBOM.py` file to change:
 
-\* `PRICE\_PER\_M3\_NIS`: Your local wood price.
+\* `PRICE_PER_M3\_NIS`: Your local wood price.
 
-\* `SAW\_KERF`: The thickness of your saw blade (default 4mm).
+\* `SAW_KERF`: The thickness of your saw blade (default 4mm).
 
-\* `STOCK\_MARKET\_SIZES`: The standard board lengths available in your country.
+\* `STOCK_MARKET_SIZES`: The standard board lengths available in your country.
 
 
 
